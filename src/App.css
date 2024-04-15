@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FAMILY_NAME';
+    src: url(FONT_FILE_NAME.woff2) format('woff2');
+}
+
+h1 {
+    font-family: 'FAMILY_NAME';
+    font-weight: 200;
+    color: #0ccac4;
+}
